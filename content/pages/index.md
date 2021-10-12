@@ -14,10 +14,7 @@ sections:
       Sono un ragazzo che frequenta la triennale in informatica, la mia grande
       passione sono le materie scientifiche, in particolar modo appunto
       l'informatica
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
