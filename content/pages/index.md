@@ -15,7 +15,7 @@ sections:
       passione sono le materie scientifiche, in particolar modo appunto
       l'informatica
     actions: []
-  - title: lorem-ipsum
+  - title: Istruzione
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
