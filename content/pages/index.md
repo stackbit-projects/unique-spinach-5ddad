@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Ciao, Io sono Samuele Punzo'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Io sono Samuele Punzo e questo è il mio sito!
   - section_id: about
     type: section_content
     title: About
