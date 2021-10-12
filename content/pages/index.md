@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Ciao, Io sono Samuele Punzo'
+    title: Benvenuto
     content: |
       Io sono Samuele Punzo e questo è il mio sito!
   - section_id: about
